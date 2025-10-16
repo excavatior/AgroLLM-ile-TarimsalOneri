@@ -13,8 +13,8 @@ import pandas as pd
 # ==========================
 # 1️⃣ API Anahtarları
 # ==========================
-OPENAI_KEY = "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"      # 👈 kendi OpenAI anahtarını yaz
-OPENWEATHER_KEY = "877bc7ea47f1d8c752fec1694b108062"         # 👈 kendi OpenWeather anahtarını yaz
+OPENAI_KEY = "sk-proj-..."      # 👈 kendi OpenAI anahtarını yaz
+OPENWEATHER_KEY = "..."         # 👈 kendi OpenWeather anahtarını yaz
 
 client = OpenAI(api_key=OPENAI_KEY)
 
