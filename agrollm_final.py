@@ -35,12 +35,12 @@ from sentinelhub import (
 # ==========================
 # 1) API Anahtarları
 # ==========================
-OPENAI_KEY = os.getenv("OPENAI_API_KEY", "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")
-OPENWEATHER_KEY = os.getenv("OPENWEATHER_KEY", "877bc7ea47f1d8c752fec1694b108062")
+OPENAI_KEY = os.getenv("OPENAI_API_KEY", "sk-proj-...")
+OPENWEATHER_KEY = os.getenv("OPENWEATHER_KEY", "...")
 
 # Sentinel Hub kimlik bilgilerin (seninkiler)
-SH_CLIENT_ID = os.getenv("SH_CLIENT_ID", "sh-5da78411-ec92-493e-a3fb-feadc061102")
-SH_CLIENT_SECRET = os.getenv("SH_CLIENT_SECRET", "po5cA6jNsIUnryOhvKs8JjfNBdpU9ePt")
+SH_CLIENT_ID = os.getenv("SH_CLIENT_ID", "sh-5da78411...")
+SH_CLIENT_SECRET = os.getenv("SH_CLIENT_SECRET", "...")
 
 client = OpenAI(api_key=OPENAI_KEY)
 
