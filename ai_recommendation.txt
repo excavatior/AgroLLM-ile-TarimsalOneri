@@ -1,0 +1,13 @@
+Balıkesir Province için mevcut hava durumu verilerine dayanarak aşağıdaki önerilerde bulunabilirim:
+
+### Sulama Önerisi:
+- **Sulama Yapılması:** Mevcut sıcaklık ve nem seviyeleri göz önüne alındığında, bitkilerin su ihtiyacı orta düzeydedir. Toprağın nem durumu ve bitkilerin su ihtiyacı dikkate alınarak, sulama yapılması önerilmektedir. Ancak, sulama miktarını aşırıya kaçmadan, bitkilerin kök sisteminin ihtiyaçlarına göre ayarlamak önemlidir. Toprağın nem seviyesinin düzenli olarak kontrol edilmesi faydalı olacaktır.
+
+### Bitki Sağlığı Hakkında Kısa Yorum:
+- **Bitki Sağlığı:** NDVI (Normalized Difference Vegetation Index) değeri 0.52, bitkilerin sağlıklı bir gelişim gösterdiğini ve genel olarak iyi durumda olduklarını göstermektedir. Ancak, bu değer bitkilerin su ve besin ihtiyaçlarının doğru bir şekilde karşılanıp karşılanmadığına bağlı olarak değişebilir. Bitkilerin yapraklarında herhangi bir solgunluk veya sararma varsa, bu durum su veya besin eksikliğini işaret ediyor olabilir.
+
+### Sıcaklık/Nem Uyarısı:
+- **Sıcaklık Uyarısı:** Mevcut sıcaklık (9.98 °C) oldukça düşük, bu nedenle soğuk hava koşullarına dikkat edilmelidir. Özellikle hassas bitkiler için don riski göz önünde bulundurulmalıdır. 
+- **Nem Uyarısı:** Nem oranı (%71) oldukça yüksek, bu da mantar hastalıkları ve zararlılar için uygun bir ortam yaratabilir. Bitkilerin havalandırılması ve gerektiğinde fungisit uygulamaları yapılması önerilir.
+
+Bu verilere dayanarak, bitkilerin sağlığını en üst düzeye çıkarmak için düzenli takip ve uygun önlemler almak önemlidir.
